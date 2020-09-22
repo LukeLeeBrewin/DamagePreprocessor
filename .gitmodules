@@ -1,0 +1,3 @@
+[submodule "warhammer_stats"]
+	path = warhammer_stats
+	url = ./warhammer_stats
