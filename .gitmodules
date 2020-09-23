@@ -1,3 +1,6 @@
 [submodule "warhammer_stats"]
 	path = warhammer_stats
 	url = ./warhammer_stats
+[submodule "Dice_rolling"]
+	path = Dice_rolling
+	url = ./Dice_rolling
